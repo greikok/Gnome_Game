@@ -1,0 +1,6 @@
+framework module Pods_BrastlewarkGameUITests {
+  umbrella header "Pods-BrastlewarkGameUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
